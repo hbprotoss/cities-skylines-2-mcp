@@ -2,7 +2,7 @@
   "name": "cs2-mcp-desktop",
   "productName": "CS2MCP Companion",
   "private": true,
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "Native desktop app for the CS2MCP web companion (Electron shell around web/)",
   "author": "CS2MCP contributors",
   "type": "module",
